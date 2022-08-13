@@ -1,13 +1,17 @@
 <h1 align="center" style="background-color:green;" >Hi, I'm Md.Nazmul Islam Nayeem</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+<h3 align="center">Studied B.Sc in Compouter Science & Engineering(CSE) at East West University</h3>
 <p align="center"><img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" /></P>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scorpionn69&label=Profile%20views&color=0e75b6&style=flat" alt="scorpionn69" /> </p>
+
+- 🎓 I’m currently studying Computer Science and Engineering at East West University
 
 - 🌱 I’m currently learning **Flask**
 
 - 📫 How to reach me **nazmulislam0151@gmail.com**
 
-- ⚡ Fun fact **I am Always Angry**
+- 🎨 Hobby **Photography, Traveling, Cycling**
+
+- ⚡ Fun fact: **I am Always Angry! ![image](https://user-images.githubusercontent.com/104355950/184478739-5a6cb5a2-be31-460e-9d49-2896db55b9fb.png)**
 
 
 
