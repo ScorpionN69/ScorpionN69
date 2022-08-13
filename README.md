@@ -1,5 +1,6 @@
-<h1 align="center" style="background-color:green;" >Hi, I'm Md.Nazmul Islam Nayeem</h1>
-<h3 align="center">Studied B.Sc in Compouter Science & Engineering(CSE) at East West University</h3>
+<h1 align="center">Hi, I'm Md.Nazmul Islam Nayeem</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=35&pause=1000&color=01B818&center=true&vCenter=true&width=1500&height=80&lines=Studied+B.Sc+in+Compouter+Science+%26+Engineering(CSE)+at+East+West+University" alt="Typing SVG" /></a>
+
 <p align="center"><img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" /></P>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scorpionn69&label=Profile%20views&color=0e75b6&style=flat" alt="scorpionn69" /> </p>
 
@@ -34,3 +35,8 @@
 
 
 ![snake gif](https://github.com/ScorpionN69/ScorpionN69/blob/output/github-contribution-grid-snake.gif)
+
+<br>
+<h2 align="center">Visitors Count</h2>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ScorpionN69}/count.svg" /></p> 
+<br>
