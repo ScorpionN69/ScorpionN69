@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=35&pause=1000&color=01B818&center=true&vCenter=true&width=1500&height=80&lines=Studied+B.Sc+in+Compouter+Science+%26+Engineering(CSE)+at+East+West+University" alt="Typing SVG" /></a>
 
 <p align="center"><img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" /></P>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=scorpionn69&label=Profile%20views&color=0e75b6&style=flat" alt="scorpionn69" /> </p>
+
 
 - 🎓 I’m currently studying Computer Science and Engineering at East West University
 
