@@ -6,7 +6,7 @@
 
 - 🎓 I’m currently studying Computer Science and Engineering at East West University
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Flask, MongoDB**
 
 - 📫 How to reach me **nazmulislam0151@gmail.com**
 
