@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **nazmulislam0151@gmail.com**
 
-- 🎨 Hobby **Photography, Traveling, Cycling**
+- 🎨 Hobby **Photography, Traveling**
 
 - ⚡ Fun fact: **I am Always Angry! ![image](https://user-images.githubusercontent.com/104355950/184478739-5a6cb5a2-be31-460e-9d49-2896db55b9fb.png)**
 
