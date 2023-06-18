@@ -6,11 +6,11 @@
 
 - 🎓 I’m currently studying **Computer Science and Engineering** at **East West University**
 
-- 🌱 I’m currently learning **FrontEnd, MongoDB**
+- 🌱 I’m currently learning **UI/UX**
 
 - 📫 How to reach me **nazmulislam0151@gmail.com**
 
-- 🎨 Hobby **Photography, Traveling**
+- 🎨 Hobby **Traveling, Photography, Videography**
 
 - ⚡ Fun fact: **I am Always Angry! ![image](https://user-images.githubusercontent.com/104355950/184478739-5a6cb5a2-be31-460e-9d49-2896db55b9fb.png)**
 
