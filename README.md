@@ -2,8 +2,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=35&pause=1000&color=01B818&center=true&vCenter=true&width=1500&height=80&lines=Studied+B.Sc+in+Compouter+Science+%26+Engineering(CSE)+at+East+West+University" alt="Typing SVG" /></a>
 
 <p align="center"> <img src="https://i.postimg.cc/65XybWDH/Nayeem.png"></p>
-<p align="center"><img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" /></P>
 
+
+**Hi there, i am Md. Nazmul islam Nayeem! I’m a skilled web developer with expertise in HTML and CSS. I also Have knowledge of C , C++ and Js. I also have a basic understanding of Python and Java languages. I have done some Projects using these languages. I’m always eager to learn and expand my skill set. Let’s connect and see how we can collaborate.**
 
 - 🎓 I’m currently studying **Computer Science and Engineering** at **East West University**
 
@@ -14,7 +15,6 @@
 - 🎨 Hobby **Traveling, Photography, Videography**
 
 - ⚡ Fun fact: **I am Always Angry! ![image](https://user-images.githubusercontent.com/104355950/184478739-5a6cb5a2-be31-460e-9d49-2896db55b9fb.png)**
-
 
 
 <h3 align="center">Connect with me:</h3>
