@@ -6,15 +6,13 @@
 
 **Hi there, i am Md. Nazmul islam Nayeem! I’m a skilled web developer with expertise in HTML and CSS. I also Have knowledge of C , C++ and Js with basic understanding of Python and Java languages. I have done some Projects using these languages. I’m always eager to learn and expand my skill set. Let’s connect and see how we can collaborate.**
 
-- 🎓 I’m currently studying **Computer Science and Engineering** at **East West University**
+- 🎓 I have completed my **BSc.** in **Computer Science and Engineering** from **East West University**.
 
 - 🌱 I’m currently learning **UI/UX**
 
 - 📫 How to reach me **nazmulislam0151@gmail.com**
 
 - 🎨 Hobby **Traveling, Photography, Videography**
-
-- ⚡ Fun fact: **I am Always Angry! ![image](https://user-images.githubusercontent.com/104355950/184478739-5a6cb5a2-be31-460e-9d49-2896db55b9fb.png)**
 
 
 <h3 align="center">Connect with me:</h3>
