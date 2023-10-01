@@ -37,7 +37,7 @@
 
 
 
-![snake gif](https://github.com/ScorpionN69/ScorpionN69/blob/output/github-contribution-grid-snake.gif)
+![snake animation](https://github.com/ScorpionN69/ScorpionN69/blob/output/github-contribution-grid-snake2.svg)
 
 <br>
 <h2 align="center">Visitors Count</h2>  
