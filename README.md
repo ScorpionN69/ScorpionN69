@@ -36,9 +36,6 @@
 
 
 
-
-![snake gif](https://github.com/ScorpionN69/ScorpionN69/blob/output/github-contribution-grid-snake.svg)
-
 <br>
 <h2 align="center">Visitors Count</h2>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ScorpionN69}/count.svg" /></p> 
