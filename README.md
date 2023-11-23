@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://github.com/ScorpionN69/ScorpionN69/blob/main/Nayeem.png?raw=true"></p>
 
 
-**Hi there, i am Md. Nazmul islam Nayeem! I’m a skilled web developer with expertise in HTML and CSS. I also Have knowledge of C , C++ and Js with basic understanding of Python and Java languages. I have done some Projects using these languages. I’m always eager to learn and expand my skill set. Let’s connect and see how we can collaborate.**
+**Hi there, i am Md. Nazmul islam Nayeem! I’m a skilled UI/UX Designer & Frontend developer with expertise in HTML, CSS and Js. I also Have knowledge of C , C++ with basic understanding of Python and Java languages. I have done some Projects using these languages.You can go and check my projects in the repository section. I’m always eager to learn and expand my skill set. Let’s connect and see how we can collaborate.**
 
 - 🎓 I have completed my **BSc.** in **Computer Science and Engineering** from **East West University**.
 
