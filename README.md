@@ -1,15 +1,9 @@
+<p align="center"> <img src="https://github.com/ScorpionN69/ScorpionN69/blob/main/thumbnail.jpg?raw=true"></p>
 <h1 align="center">Hi, I'm Md.Nazmul Islam Nayeem</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=35&pause=1000&color=01B818&center=true&vCenter=true&width=1500&height=80&lines=UI+/+UX+Designer+And+Frontend+Developer" alt="Typing SVG" /></a>
 
-<p align="center"> <img src="https://github.com/ScorpionN69/ScorpionN69/blob/main/Nayeem.png?raw=true"></p>
-
-
-**I’m Md. Nazmul Islam Nayeem, a UI/UX designer passionate about transforming ideas into meaningful digital experiences. With expertise in user research, wireframing, prototyping, and design systems, I create intuitive, user-centered interfaces that blend functionality with aesthetics.
+A associate UI/UX designer passionate about transforming ideas into meaningful digital experiences. With expertise in user research, wireframing, prototyping, and design systems, I create intuitive, user-centered interfaces that blend functionality with aesthetics.
 I’m proficient in industry-standard tools like Figma, Adobe XD, and Spline, and I bring a solid foundation in C and C++ alongside a basic understanding of Python and Java, allowing me to collaborate effectively with developers and multidisciplinary teams.
-
-
-
-Driven by curiosity and creativity, I strive to design products that not only look great but also deliver real value to users. Always open to collaboration, I’d love to connect and explore innovative ideas together.**
+Driven by curiosity and creativity, I strive to design products that not only look great but also deliver real value to users. Always open to collaboration, I’d love to connect and explore innovative ideas together.
 
 - 🎓 I have completed my **BSc.** in **Computer Science and Engineering** from **East West University**.
 
