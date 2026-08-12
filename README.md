@@ -4,11 +4,16 @@
 <p align="center"> <img src="https://github.com/ScorpionN69/ScorpionN69/blob/main/Nayeem.png?raw=true"></p>
 
 
-**Hi there, i am Md. Nazmul islam Nayeem! I’m a skilled UI/UX Designer & Frontend developer with expertise in HTML, CSS and Js. I also Have knowledge of C , C++ with basic understanding of Python and Java languages. I have done some Projects using these languages.You can go and check my projects in the repository section. I’m always eager to learn and expand my skill set. Let’s connect and see how we can collaborate.**
+**I’m Md. Nazmul Islam Nayeem, a UI/UX designer passionate about transforming ideas into meaningful digital experiences. With expertise in user research, wireframing, prototyping, and design systems, I create intuitive, user-centered interfaces that blend functionality with aesthetics.
+I’m proficient in industry-standard tools like Figma, Adobe XD, and Spline, and I bring a solid foundation in C and C++ alongside a basic understanding of Python and Java, allowing me to collaborate effectively with developers and multidisciplinary teams.
+
+
+
+Driven by curiosity and creativity, I strive to design products that not only look great but also deliver real value to users. Always open to collaboration, I’d love to connect and explore innovative ideas together.**
 
 - 🎓 I have completed my **BSc.** in **Computer Science and Engineering** from **East West University**.
 
-- 🌱 I’m currently learning **UI/UX**
+- 🌱 I’m currently Working at **InNeed Intelligent Cloud** as a **Associate UI/UX Designer**
 
 - 📫 How to reach me **nazmulislam0151@gmail.com**
 
